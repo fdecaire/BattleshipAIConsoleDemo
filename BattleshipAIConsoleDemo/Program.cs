@@ -36,7 +36,7 @@ namespace BattleshipAIConsoleDemo
 		{
 			// fire on best found positions until we run out of places to fire on
 
-			List<ShipCoord> shipCells = FindShip(2);
+			List<ShipCoord> shipCells = FindShip(lengthOfShip);
 
 			// log ship cells ordered descending by number of occurrences
 			/*
@@ -52,7 +52,7 @@ namespace BattleshipAIConsoleDemo
 				map[shipCells[0].X, shipCells[0].Y] = 1;
 				log.Debug(shipCells[0].X + "," + shipCells[0].Y);
 
-				shipCells = FindShip(2);
+				shipCells = FindShip(lengthOfShip);
 				/*
 				log.Debug("total shots left=" + NumberOfShotsLeft(shipCells));
 				for (int i = 0; i < shipCells.Count; i++)
