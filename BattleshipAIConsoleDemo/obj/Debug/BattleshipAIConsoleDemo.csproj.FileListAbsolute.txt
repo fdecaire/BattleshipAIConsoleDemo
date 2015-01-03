@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\BattleshipAIConsoleDemo.exe.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\BattleshipAIConsoleDemo.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\BattleshipAIConsoleDemo.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\log4net.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\log4net.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\obj\Debug\BattleshipAIConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\obj\Debug\BattleshipAIConsoleDemo.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\obj\Debug\BattleshipAIConsoleDemo.pdb
+C:\Users\Frank\Documents\GitHub\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\BattleshipAIConsoleDemo.exe.config
+C:\Users\Frank\Documents\GitHub\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\obj\Debug\BattleshipAIConsoleDemo.exe
+C:\Users\Frank\Documents\GitHub\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\obj\Debug\BattleshipAIConsoleDemo.pdb
+C:\Users\Frank\Documents\GitHub\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\BattleshipAIConsoleDemo.exe
+C:\Users\Frank\Documents\GitHub\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\BattleshipAIConsoleDemo.pdb
+C:\Users\Frank\Documents\GitHub\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\log4net.dll
+C:\Users\Frank\Documents\GitHub\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\bin\Debug\log4net.xml
+C:\Users\Frank\Documents\GitHub\BattleshipAIConsoleDemo\BattleshipAIConsoleDemo\obj\Debug\BattleshipAIConsoleDemo.csprojResolveAssemblyReference.cache
